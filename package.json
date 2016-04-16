@@ -1,0 +1,17 @@
+{
+  "name": "ReverseProxy",
+  "description": "Un reverse Proxy en nodejs",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "shoxx",
+      "email": "shoxx@hackdumb.com",
+      "web": "www.shoxx-website.com"
+    }
+  ],
+  "dependencies": {
+   "reverse-proxy":"~0.3.0",
+   "nosqlite":"~0.2.2",
+   "prompt":"1.0.0"
+  }
+}

@@ -74,7 +74,7 @@ if(process.argv.indexOf('-a')>-1){
   	});
 }
 
-prompt.message = "Fuuu";
+prompt.message = "Please Enter >";
 prompt.start();
 
 

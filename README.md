@@ -21,10 +21,15 @@ You have to specify a default port / host to redirect bad requests.
 
 ###Quick Install
 >git clone https://github.com/shoxxdj/reverseProxyJS.git
+
 >cd reverseProxyJS
+
 >npm install
+
 >node admin.js
+
 >node admin.js -a #add your website
+
 >sudo node reverseProxy.js
 
 
